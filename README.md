@@ -29,7 +29,7 @@ I’m a full-stack engineer with over 5 years of experience in Japan and Banglad
 ```json
 ["Flutter", "SwiftUI", "Jetpack Compose"]
 
-
+```
 
 <!--
 **open761/open761** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
